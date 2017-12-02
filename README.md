@@ -3,6 +3,6 @@ Nautilus extension that allows opening another nautilus windows into the selecte
 
 # Examples
 
-![example 1](https://raw.githubusercontent.com/marcvivet/nautilus-open-nautilus/edit/master/res/example_01.png)
-![example 2](https://raw.githubusercontent.com/marcvivet/nautilus-open-nautilus/edit/master/res/example_02.png)
+![example 1](https://raw.githubusercontent.com/marcvivet/nautilus-open-nautilus/master/res/example_01.png)
+![example 2](https://raw.githubusercontent.com/marcvivet/nautilus-open-nautilus/master/res/example_02.png)
 
